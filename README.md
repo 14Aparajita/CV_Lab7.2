@@ -72,8 +72,8 @@ Each block includes:
 
 | Metric            | Value   |
 | ----------------- | ------- |
-| Training Accuracy | ~85–90% |
-| Test Accuracy     | ~80–85% |
+| Training Accuracy | 78.20199728012085 |
+| Test Accuracy     | 73.50000143051147 |
 
 ---
 
@@ -114,7 +114,8 @@ DSC_CIFAR10.ipynb
 
 Student Project
 Computer Vision Lab
-B.Tech – AI & DS
+Aparajita Vaish
+M.Tech – ECE
 
 ---
 
